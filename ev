@@ -1,0 +1,2 @@
+  art = text2art(text="DEBANK   CHECKER", font="standart")
+    print(colored(art,'light_blue'))
